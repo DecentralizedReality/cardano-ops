@@ -1117,4 +1117,9 @@
     port = 4002;
     valency = 1;
   }
+  {
+      operator = "DecentralizedReality";
+      addr = "35.232.187.206";
+      port = 3002;
+  }
 ]
